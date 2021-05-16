@@ -1,0 +1,10 @@
+{
+  "env": "dev",
+  "dbConfig": {
+    "host": "localhost",
+    "user": "root",
+    "password": "root",
+    "database": "dev_api"
+  },
+  "secretKey": "secretKey"
+}

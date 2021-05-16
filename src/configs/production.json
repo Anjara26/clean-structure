@@ -1,0 +1,10 @@
+{
+  "env": "prod",
+  "dbConfig": {
+    "host": "localhost",
+    "user": "",
+    "password": "",
+    "database": "typeorm"
+  },
+  "secretKey": "secretKey"
+}
